@@ -16,7 +16,7 @@ namespace TrabajoGit
             }
 
             Console.WriteLine("hola gustavo ");
-            int A, B, C, D ;
+            int A, B, C, D, result;
 
             Console.WriteLine("Ingrese un numero entero: ");
             A = int.Parse(Console.ReadLine());
@@ -30,7 +30,9 @@ namespace TrabajoGit
             Console.WriteLine("Ingrese un numero entero: ");
             D = int.Parse(Console.ReadLine());
 
-            Console.Write((A+B)/(C+D));
+
+            result = A + B / C + D ;
+            Console.Write(result);
             Console.ReadKey();
         }
     }
