@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/myke/Desktop/TrabajoGit/TrabajoGit.csproj": {}
+    "/Users/myke/Desktop/TrabajoGit/TrabajonGit/TrabajoGit.csproj": {}
   },
   "projects": {
-    "/Users/myke/Desktop/TrabajoGit/TrabajoGit.csproj": {
+    "/Users/myke/Desktop/TrabajoGit/TrabajonGit/TrabajoGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/myke/Desktop/TrabajoGit/TrabajoGit.csproj",
+        "projectUniqueName": "/Users/myke/Desktop/TrabajoGit/TrabajonGit/TrabajoGit.csproj",
         "projectName": "TrabajoGit",
-        "projectPath": "/Users/myke/Desktop/TrabajoGit/TrabajoGit.csproj",
+        "projectPath": "/Users/myke/Desktop/TrabajoGit/TrabajonGit/TrabajoGit.csproj",
         "packagesPath": "/Users/myke/.nuget/packages/",
-        "outputPath": "/Users/myke/Desktop/TrabajoGit/obj/",
+        "outputPath": "/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/myke/.nuget/NuGet/NuGet.Config"

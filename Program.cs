@@ -6,7 +6,7 @@ namespace TrabajoGit
     {
         static void Main(string[] args)
         {
-            int a, b, result;
+            int a;
 
             Console.WriteLine("Ingrese un numero entero: ");
             a = int.Parse(Console.ReadLine());

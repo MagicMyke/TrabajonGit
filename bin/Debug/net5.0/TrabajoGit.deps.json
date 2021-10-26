@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TrabajoGit/1.0.0": {
+        "runtime": {
+          "TrabajoGit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabajoGit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

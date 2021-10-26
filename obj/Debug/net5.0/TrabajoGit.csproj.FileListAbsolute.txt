@@ -1,0 +1,15 @@
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/TrabajoGit.deps.json
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/TrabajoGit.runtimeconfig.json
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/TrabajoGit.runtimeconfig.dev.json
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/TrabajoGit.dll
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/ref/TrabajoGit.dll
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/bin/Debug/net5.0/TrabajoGit.pdb
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.csprojAssemblyReference.cache
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.AssemblyInfoInputs.cache
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.AssemblyInfo.cs
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.csproj.CoreCompileInputs.cache
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.dll
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/ref/TrabajoGit.dll
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.pdb
+/Users/myke/Desktop/TrabajoGit/TrabajonGit/obj/Debug/net5.0/TrabajoGit.genruntimeconfig.cache
